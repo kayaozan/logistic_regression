@@ -1,7 +1,7 @@
 # Logistic Regression
 
-This page demostrates some sample code for logistic regression. Two Python file has been shared.
+This page demostrates some sample code for logistic regression. Two Python files has been shared.
 
-One is written from scratch without any Machine Learning libraries such as scikit-learn.
+One is written from scratch without any Machine Learning libraries such as `scikit-learn`.
 
-Other uses the capabilities of scikit-learn tools.
+Other uses the capabilities of `scikit-learn` tools.
